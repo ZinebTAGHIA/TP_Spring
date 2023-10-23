@@ -28,6 +28,7 @@ To save a new student, send a POST request to /students/save with the student de
 
 To delete a student, send a DELETE request to /students/delete/{id} with the student ID as a path variable.
 ![Capture d’écran (1029)](https://github.com/ZinebTAGHIA/TP_Spring/assets/102872040/18f6bc64-83f2-44dd-a6d7-9e7795df0402)
+![Capture d’écran (1030)](https://github.com/ZinebTAGHIA/TP_Spring/assets/102872040/370cb07a-eed1-4024-8830-5de4e6baa886)
 
 To retrieve all students, send a GET request to /students/all.
 ![Capture d’écran (1026)](https://github.com/ZinebTAGHIA/TP_Spring/assets/102872040/ac6a0a6e-6941-421a-9158-4cc29f0ea1d4)
@@ -44,22 +45,3 @@ Ensure you have a MySQL database set up.
 Configure the database properties in application.properties.
 Run the application using SpringApplication.run(DemoApplication.class, args);.
 Access the application at http://localhost:8080.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Capture d’écran (1030)](https://github.com/ZinebTAGHIA/TP_Spring/assets/102872040/370cb07a-eed1-4024-8830-5de4e6baa886)
