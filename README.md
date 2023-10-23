@@ -42,6 +42,9 @@ To get the count of students by birth year, send a GET request to /students/byYe
 - Running the Application:
 
 Ensure you have a MySQL database set up.
+
 Configure the database properties in application.properties.
+
 Run the application using SpringApplication.run(DemoApplication.class, args);.
+
 Access the application at http://localhost:8080.
